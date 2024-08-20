@@ -291,6 +291,7 @@ section {
   position: absolute;
   right: -5rem;
   bottom: 2.5rem;
+  justify-content: center;
 }
 
 .details-container {
@@ -307,6 +308,7 @@ section {
 .section-container {
   gap: 4rem;
   height: 80%;
+  justify-content: center;
 }
 
 .section__pic-container {
