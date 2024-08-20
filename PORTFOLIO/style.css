@@ -265,6 +265,7 @@ section {
 
 #about {
   position: relative;
+  justify-content: center;
 }
 
 .about-containers {
@@ -283,9 +284,6 @@ section {
   display: flex;
 }
 
-.about-pic {
-  border-radius: 2rem;
-}
 
 .arrow {
   position: absolute;
